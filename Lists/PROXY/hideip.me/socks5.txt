@@ -1,9 +1,9 @@
 208.102.51.6:58208:United States
 69.61.200.104:36181:United States
 66.42.224.229:41679:United States
+174.64.199.82:4145:United States
 72.195.34.42:4145:United States
-192.111.137.37:18762:United States
-98.178.72.21:10919:United States
+72.195.34.35:27360:United States
 184.178.172.25:15291:United States
 184.178.172.18:15280:United States
 70.166.167.55:57745:United States
@@ -13,281 +13,247 @@
 70.166.65.160:4145:United States
 193.25.215.182:22222:United States
 45.194.33.12:30001:Seychelles
+220.158.232.118:1080:Cambodia
 15.204.235.27:1080:United States
-109.199.107.68:1080:France
-101.36.104.239:10808:Japan
 123.58.219.171:10808:Hong Kong
-101.36.104.46:10808:Japan
-78.109.137.53:1080:Russia
 199.66.182.243:4145:United States
 47.245.165.201:1080:Germany
-67.207.92.87:1088:United States
+165.154.20.187:10808:Hong Kong
+109.191.10.98:1080:Russia
+111.119.162.248:10950:Japan
+65.21.252.66:10811:United States
+5.255.123.162:1080:The Netherlands
 199.66.182.232:4145:United States
 45.194.33.12:30002:Seychelles
+5.75.133.113:10808:Slovakia
 5.75.133.113:10811:United Kingdom
-216.105.128.144:4145:United States
-46.241.57.29:1080:Russia
-45.74.31.30:4869:Indonesia
-45.74.31.30:4377:India
-45.74.31.30:14929:France
-45.74.31.30:5447:India
-45.74.31.30:11001:United States
-45.74.31.30:39877:Indonesia
+109.195.215.208:1080:Russia
+79.134.4.192:1080:Russia
+203.76.123.6:1080:Bangladesh
+89.31.189.39:1080:Russia
+45.74.31.30:5232:United States
+45.74.31.30:4848:India
 91.107.179.68:10809:Germany
-45.74.31.30:5228:United States
-45.74.31.30:36116:Germany
+78.29.56.178:1080:Russia
+217.118.188.122:1080:Russia
+87.225.107.8:1080:Russia
+45.74.31.42:5187:United Kingdom
 45.74.31.30:5289:India
-45.74.31.25:4842:Indonesia
-45.74.31.41:11058:Indonesia
-45.74.31.30:15902:United States
-45.74.31.30:4577:Indonesia
-45.74.31.50:9826:Vietnam
-49.13.22.249:10802:Australia
-49.13.22.249:10813:Singapore
+45.74.31.47:15741:Indonesia
+45.74.31.30:14362:United States
+49.13.22.249:10813:Indonesia
+49.13.22.249:10806:United States
+45.74.31.47:15574:Indonesia
 45.74.31.47:16008:Indonesia
+45.74.31.47:4051:United States
 49.13.22.249:10803:Serbia
-49.13.22.249:10814:Austria
 45.74.31.47:15728:Indonesia
-45.74.31.22:4705:Indonesia
-45.74.31.40:4494:India
-5.75.133.113:10803:Serbia
-45.74.31.50:4568:United States
-45.74.31.50:26811:Indonesia
 5.75.133.113:10802:Greece
-45.74.31.25:5141:United States
-45.74.31.47:15990:United States
+45.74.31.30:5295:United States
+5.75.133.113:10806:United States
 83.147.217.103:1080:Greece
-45.74.31.25:4258:India
-45.74.31.23:4202:Indonesia
-45.74.31.23:6154:France
-45.74.31.23:4954:India
-45.74.31.25:4998:India
-88.84.204.217:1080:Russia
-45.74.31.41:13912:Indonesia
-45.74.31.23:4481:Singapore
+45.74.31.30:42425:Indonesia
+45.74.31.50:13643:Indonesia
+45.74.31.23:6261:Israel
+45.74.31.23:4342:India
+45.74.31.23:13510:Indonesia
+45.74.31.23:5478:United States
+45.74.31.25:5764:United States
 160.187.0.89:1080:Vietnam
-179.255.188.140:1080:France
-45.74.31.40:14446:United States
+45.74.31.25:6413:India
 103.75.118.84:1080:Japan
-5.75.133.113:10805:Switzerland
-45.74.31.41:10592:Indonesia
-45.74.31.23:11836:France
+49.13.22.249:10805:United Kingdom
 209.50.255.91:1080:United States
-45.74.31.30:34380:United Kingdom
-45.74.31.23:12952:United States
-57.128.231.218:1203:United States
+45.74.31.30:8076:France
+65.21.252.66:10805:Canada
 171.25.158.95:1080:Sweden
-49.13.22.249:10807:United States
-45.74.31.30:12447:United States
-45.74.31.23:4746:Austria
-45.74.31.42:29410:France
-45.74.31.50:4068:Austria
-45.74.31.25:6216:United States
+45.74.31.42:4134:Indonesia
+45.74.31.47:5883:France
+45.74.31.30:6021:Brazil
+45.74.31.22:8423:United States
+45.74.31.30:4921:India
+45.74.31.30:6556:India
 57.128.231.218:1202:United States
-102.129.229.131:1081:Thailand
-45.74.31.30:8035:France
-45.74.31.30:5657:Vietnam
+45.74.31.30:5342:United States
+45.74.31.30:11819:South Korea
+45.74.31.30:11143:France
+45.74.31.50:16139:United States
+45.74.31.23:6771:United States
+45.74.31.42:9181:United States
+101.32.60.93:1080:Hong Kong
 43.230.192.242:1080:Cambodia
 212.77.75.25:1088:Italy
 107.174.30.94:1080:United States
-45.74.31.42:5087:Austria
-45.74.31.23:5014:Vietnam
-45.74.31.23:5203:United States
-45.74.31.23:4309:Indonesia
-45.74.31.30:8160:Austria
-45.74.31.42:4558:France
-45.74.31.23:4146:India
+45.74.31.23:6942:France
+45.74.31.50:4890:Vietnam
+45.74.31.25:5822:United States
+45.74.31.30:5720:United States
+45.74.31.30:4897:France
+45.74.31.42:18683:United Kingdom
+45.74.31.30:5459:United States
+45.74.31.42:8940:United States
 45.74.31.23:4437:Indonesia
-45.74.31.47:10621:France
-45.74.31.42:6767:United States
-45.74.31.42:6992:United States
+45.74.31.30:9500:United States
+45.74.31.23:4813:United States
+45.74.31.42:7498:United States
 45.74.31.50:4768:United States
-45.74.31.47:10274:United States
-45.74.31.50:4817:Indonesia
-45.74.31.50:4866:Indonesia
-45.74.31.25:16737:United States
-45.74.31.50:4307:Vietnam
+45.74.31.22:6123:United States
+45.74.31.50:4417:Indonesia
+45.74.31.42:4249:South Korea
 45.74.31.40:4548:United States
+45.74.31.42:5077:Vietnam
 45.74.31.50:4473:Indonesia
-45.74.31.42:8355:United States
-45.74.31.25:5333:France
-45.74.31.50:4298:France
-45.74.31.22:4833:France
+45.74.31.47:6281:Israel
 45.74.31.50:5619:United States
-45.74.31.50:10895:France
-45.74.31.50:5799:Vietnam
-45.74.31.41:4343:Indonesia
-45.74.31.40:5116:Vietnam
-45.74.31.25:7644:Vietnam
-45.74.31.25:5115:United States
-45.74.31.22:8089:Vietnam
-45.74.31.41:4217:France
-45.74.31.42:11011:Vietnam
-45.74.31.40:5224:United States
-45.74.31.25:8600:India
-45.74.31.50:21113:Indonesia
-45.74.31.50:20817:Indonesia
-45.74.31.40:6704:United States
-45.74.31.25:7417:France
-45.74.31.41:4888:United States
-45.74.31.50:21018:Indonesia
-45.74.31.47:9467:Vietnam
-45.74.31.50:20034:Indonesia
-45.74.31.50:21156:Indonesia
-45.74.31.50:14759:United States
-45.74.31.41:12640:Indonesia
-45.74.31.25:5072:United States
-45.74.31.50:20925:Indonesia
-45.74.31.47:5760:France
-45.74.31.50:21025:Indonesia
-45.74.31.23:4780:United States
-45.74.31.50:6344:France
-45.74.31.50:6471:India
-45.74.31.40:5193:France
-45.74.31.50:5237:United States
-103.88.234.239:40016:Mexico
-45.74.31.30:5685:France
-45.74.31.40:4985:India
-45.74.31.50:5299:United States
-45.74.31.30:4323:France
-45.74.31.25:5840:United States
-47.236.188.63:10808:Singapore
-45.74.31.47:13848:United Kingdom
+129.153.11.56:1080:United States
+45.74.31.47:5465:Indonesia
+45.74.31.47:15575:Indonesia
+45.74.31.40:4731:Austria
+45.74.31.41:12008:Indonesia
+45.74.31.50:4888:South Korea
+45.74.31.47:6305:Israel
+45.74.31.50:12953:Indonesia
+45.74.31.22:5436:United States
+45.74.31.42:10463:United States
+45.74.31.50:21115:Indonesia
+45.74.31.41:13780:Indonesia
+45.74.31.50:21184:Indonesia
+45.74.31.40:4848:France
+45.74.31.25:4149:France
+45.74.31.23:13858:Indonesia
+45.74.31.30:5079:United States
+45.74.31.50:20782:Indonesia
+45.74.31.22:6019:United States
+45.74.31.41:15744:United States
+45.74.31.25:17779:Indonesia
+45.74.31.50:19223:Indonesia
+45.74.31.23:4445:United States
+45.74.31.30:9721:United States
+45.74.31.30:34659:United Kingdom
 103.88.234.239:40014:Mexico
-45.74.31.22:11506:United States
-45.74.31.47:5675:France
+45.74.31.42:12607:United States
 103.88.234.239:40017:Mexico
-45.74.31.25:10558:India
-45.74.31.30:15955:United States
-103.88.234.239:40005:Mexico
-45.74.31.25:8331:India
-45.74.31.42:11288:India
-45.74.31.42:9674:United States
-45.74.31.41:4878:United States
-45.74.31.41:4622:United States
-45.74.31.30:8019:France
-45.74.31.25:8671:Israel
-45.74.31.25:5127:United States
-45.74.31.41:4795:Indonesia
-45.74.31.22:7463:India
-45.74.31.41:5517:Vietnam
-45.74.31.50:6329:France
-45.74.31.22:17544:France
-45.74.31.50:4683:United States
-45.74.31.25:9818:India
+45.74.31.47:4029:South Korea
+45.74.31.22:13032:Vietnam
+45.74.31.30:5752:Indonesia
+45.74.31.25:9288:Israel
+45.74.31.47:5068:South Korea
+45.74.31.50:5529:United States
+45.74.31.40:4146:France
+45.74.31.50:4147:Canada
+45.74.31.40:13606:Vietnam
+45.74.31.40:7509:United States
+45.74.31.22:17483:France
+45.74.31.41:4491:United States
+45.74.31.25:5128:India
+45.74.31.41:5007:United States
+45.74.31.50:5034:Indonesia
+45.74.31.25:5729:Indonesia
+45.74.31.40:9679:United States
+45.74.31.50:6164:France
+45.74.31.23:15654:India
+45.74.31.41:5064:Vietnam
+45.74.31.41:4831:Cambodia
 107.174.30.92:1080:United States
-45.74.31.50:4664:United States
-45.74.31.47:5732:Israel
 148.251.68.232:8888:South Africa
-45.74.31.25:5311:United States
-45.74.31.41:4644:Indonesia
-45.74.31.50:4668:United States
-45.74.31.23:4442:Finland
-45.74.31.46:4065:Brazil
-45.74.31.47:8588:India
-45.74.31.41:5079:United States
-45.74.31.41:4147:United States
-45.74.31.41:4057:France
-45.74.31.40:4579:United States
-45.74.31.46:9484:United States
-45.74.31.30:11983:France
-45.74.31.50:6448:Israel
-45.74.31.50:14782:Australia
-45.74.31.50:6321:France
-45.74.31.23:6302:India
-45.74.31.22:4759:United States
-45.74.31.42:13266:United States
-45.74.31.40:4187:Vietnam
-45.74.31.46:6043:Brazil
-45.74.31.25:5150:India
+45.74.31.42:11565:India
+45.74.31.25:11917:France
+45.74.31.25:5706:Indonesia
+45.74.31.46:12237:France
+172.247.27.29:11080:United States
+151.243.93.215:1080:United States
+45.74.31.40:7825:United States
+45.74.31.30:4994:South Africa
+198.46.175.249:1082:United States
+45.74.31.47:6092:United States
+45.74.31.46:12830:India
+45.74.31.42:10097:India
+45.74.31.50:4991:Indonesia
+45.74.31.25:8362:United States
+45.74.31.40:6924:Israel
+45.74.31.42:5938:United States
+45.74.31.40:12064:United Kingdom
+45.74.31.50:10868:South Africa
+192.248.186.51:1080:Germany
 164.68.114.118:1080:France
-45.74.31.50:6432:France
-45.74.31.22:12747:United States
-45.74.31.41:5552:France
-45.74.31.22:12807:United States
-45.74.31.47:10557:France
-101.5.21.225:7894:Japan
-45.74.31.47:9354:United States
-45.74.31.41:4202:Brazil
-45.74.31.22:17738:France
-5.189.38.147:7777:Russia
-45.74.31.40:6897:Israel
-45.74.31.30:7858:India
-45.74.31.40:4761:Indonesia
-45.74.31.40:8514:United States
-45.74.31.50:4772:United States
-45.74.31.40:5920:United States
+45.74.31.47:6498:United States
+45.74.31.25:7459:India
+45.74.31.22:6743:United States
+45.74.31.22:5104:United States
+45.74.31.23:9388:United States
+45.74.31.42:13560:Vietnam
+45.74.31.40:7573:United States
+42.112.52.40:20001:Vietnam
+45.74.31.22:5164:United States
+45.74.31.40:7459:India
+45.74.31.50:6520:France
+45.74.31.46:5760:Brazil
+45.74.31.41:5666:Austria
+45.74.31.41:7883:United States
 8.219.122.8:9999:Singapore
-45.74.31.46:5166:United States
+45.74.31.47:6245:United States
 185.73.115.43:2080:The Netherlands
 183.106.215.208:1080:South Korea
-45.74.31.25:10285:United States
-202.142.159.68:1080:Pakistan
-45.74.31.23:4718:India
-45.74.31.47:8095:India
-45.74.31.47:6583:United States
-45.74.31.46:5615:United States
-45.74.31.42:4261:Austria
-45.74.31.22:4714:India
-45.74.31.50:15294:United States
-45.74.31.50:12783:United States
-45.74.31.42:10990:Vietnam
-45.74.31.41:11273:France
-45.74.31.41:10419:United States
-45.74.31.47:4555:United States
-45.74.31.50:6369:France
-45.74.31.25:9930:Vietnam
-45.74.31.50:5107:United States
-45.74.31.22:7623:India
+45.74.31.30:11460:United States
+45.74.31.50:7618:Israel
+163.47.37.190:1080:Bangladesh
+45.74.31.23:4994:United States
+45.74.31.30:7885:India
+45.74.31.23:4760:Indonesia
+45.74.31.30:40471:United States
+45.74.31.23:4971:United States
+45.74.31.47:5752:France
+45.74.31.41:12255:United States
+45.74.31.30:6418:India
+45.74.31.50:15719:United States
+45.74.31.50:15301:United States
+45.74.31.50:17892:United States
+45.74.31.30:5935:France
+45.74.31.30:11541:France
+45.74.31.30:40771:United States
+45.74.31.30:40604:United States
+45.74.31.30:8092:France
+45.74.31.25:7598:France
 45.74.31.41:4647:United States
 103.72.101.51:1020:India
-45.74.31.50:8069:Vietnam
-45.74.31.42:4335:South Korea
-45.74.31.46:4128:United States
-45.74.31.25:12649:France
-45.74.31.46:4116:United Kingdom
-45.74.31.22:17820:France
-103.38.81.159:1080:Hong Kong
-154.201.94.205:1080:Seychelles
+31.41.227.175:2080:Russia
+45.74.31.50:6378:United States
+45.74.31.23:4774:United States
+45.74.31.46:4077:United States
+45.74.31.22:6386:United States
+45.74.31.50:5170:South Africa
+45.74.31.40:4651:United States
+45.74.31.25:12089:United States
 82.114.86.173:1090:Kosovo
-130.94.57.165:1080:Saudi Arabia
-45.74.31.42:29499:France
-45.74.31.23:6823:France
-45.74.31.42:11374:United Kingdom
-45.74.31.42:10052:Vietnam
-45.74.31.42:11244:Vietnam
-45.74.31.25:9500:Vietnam
-45.74.31.23:10030:Vietnam
-45.74.31.50:8473:United States
-45.74.31.25:9817:India
-45.74.31.22:4749:Indonesia
-45.74.31.42:10066:Vietnam
-45.74.31.46:9254:United States
-45.74.31.30:11682:France
-45.74.31.22:17837:United States
-45.74.31.30:13824:United States
-45.74.31.47:7697:India
-45.74.31.47:5069:South Korea
-45.74.31.50:8486:India
-65.2.78.122:1080:India
+45.74.31.30:6220:United States
+45.74.31.46:4075:United States
+45.74.31.42:17319:United Kingdom
+194.85.11.60:1080:Russia
+45.74.31.41:6117:Israel
+45.74.31.50:4925:Indonesia
+45.74.31.47:5099:United States
+45.74.31.23:16185:United States
 27.69.77.5:1089:Vietnam
 27.69.78.20:1089:Vietnam
 27.69.68.185:1089:Vietnam
-45.74.31.50:8028:Vietnam
-45.74.31.25:5851:United States
-45.74.31.47:7106:United States
+45.74.31.30:6600:United States
 45.74.31.47:4697:South Korea
-45.74.31.41:13779:United States
-8.211.142.15:1080:Japan
-45.74.31.42:11162:Vietnam
-45.74.31.23:16612:United States
-45.74.31.50:5858:India
-45.74.31.22:7813:Vietnam
-45.74.31.22:17742:United States
-35.238.151.125:1080:United States
-52.128.241.106:1080:United States
+180.93.102.159:40001:Russia
+90.188.250.169:1080:Russia
 27.69.68.185:1033:Vietnam
-45.8.125.206:1080:Russia
 27.69.77.5:1111:Vietnam
-45.74.31.22:17532:United States
-45.74.31.22:17867:United States
+222.167.238.184:1080:United States
+5.161.57.4:1080:United States
+45.74.31.47:9954:United States
+45.74.31.50:9677:Vietnam
+45.74.31.23:16651:United States
+45.74.31.22:17972:France
+27.69.78.20:1111:Vietnam
+34.40.114.234:1080:Germany
+118.168.228.79:1082:Taiwan
+43.248.188.64:1080:Hong Kong
+118.168.201.115:1082:Taiwan
+118.168.217.62:1082:Taiwan
+118.168.226.222:1082:Taiwan
+45.74.31.42:12710:United States
+45.74.31.42:11281:United States

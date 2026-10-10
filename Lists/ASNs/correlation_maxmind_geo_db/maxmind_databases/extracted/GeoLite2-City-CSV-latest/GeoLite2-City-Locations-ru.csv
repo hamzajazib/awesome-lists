@@ -240,7 +240,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 169179,ru,AS,Азия,SY,Сирия,HL,"Мухафаза Халеб",,,,,Asia/Damascus,0
 169389,ru,AS,Азия,SY,Сирия,ID,"Мухафаза Идлиб",,,Идлиб,,Asia/Damascus,0
 169577,ru,AS,Азия,SY,Сирия,HI,"Мухафаза Хомс",,,Хомс,,Asia/Damascus,0
-170017,ru,AS,Азия,SY,Сирия,HM,"Мухафаза Хама",,,Хама,,Asia/Damascus,0
 170062,ru,AS,Азия,SY,Сирия,HL,"Мухафаза Халеб",,,,,Asia/Damascus,0
 170063,ru,AS,Азия,SY,Сирия,HL,"Мухафаза Халеб",,,Халеб,,Asia/Damascus,0
 170652,ru,AS,Азия,SY,Сирия,RD,Риф-Дамаск,,,,,Asia/Damascus,0
@@ -249,8 +248,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 170903,ru,AS,Азия,SY,Сирия,DR,"Мухафаза Деръа",,,,,Asia/Damascus,0
 170905,ru,AS,Азия,SY,Сирия,DR,"Мухафаза Деръа",,,Даръа,,Asia/Damascus,0
 172082,ru,AS,Азия,SY,Сирия,HL,"Мухафаза Халеб",,,Азаз,,Asia/Damascus,0
-172370,ru,AS,Азия,SY,Сирия,ID,"Мухафаза Идлиб",,,,,Asia/Damascus,0
-172374,ru,AS,Азия,SY,Сирия,RA,"Мухафаза Ракка",,,,,Asia/Damascus,0
 173470,ru,AS,Азия,SY,Сирия,DI,Дамаск,,,,,Asia/Damascus,0
 173576,ru,AS,Азия,SY,Сирия,LA,"Мухафаза Латакия",,,Латакия,,Asia/Damascus,0
 173578,ru,AS,Азия,SY,Сирия,LA,"Мухафаза Латакия",,,,,Asia/Damascus,0
@@ -844,6 +841,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 295341,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,,,Asia/Jerusalem,0
 295357,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,Дан,,Asia/Jerusalem,0
 295363,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,,,Asia/Jerusalem,0
+295365,ru,AS,Азия,IL,Израиль,HA,"Хайфский округ",,,Кармель,,Asia/Jerusalem,0
 295370,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,Дабурия,,Asia/Jerusalem,0
 295379,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,,,Asia/Jerusalem,0
 295395,ru,AS,Азия,IL,Израиль,D,"Южный район",,,,,Asia/Jerusalem,0
@@ -1899,6 +1897,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 535334,ru,EU,Европа,RU,Россия,KRS,"Курская Область",,,Льгов,,Europe/Moscow,0
 535438,ru,EU,Европа,RU,Россия,STA,Ставрополье,,,Левокумское,,Europe/Moscow,0
 535544,ru,EU,Европа,RU,Россия,SPE,Санкт-Петербург,,,Левашово,,Europe/Moscow,0
+535798,ru,EU,Европа,RU,Россия,ORL,"Орловская Область",,,Лесная,,Europe/Moscow,0
 535886,ru,EU,Европа,RU,Россия,STA,Ставрополье,,,Лермонтов,,Europe/Moscow,0
 535990,ru,EU,Европа,RU,Россия,ROS,"Ростовская Область",,,Леонов,,Europe/Moscow,0
 536156,ru,EU,Европа,RU,Россия,VGG,"Волгоградская Область",,,Ленинск,,Europe/Volgograd,0
@@ -2193,6 +2192,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 578793,ru,EU,Европа,RU,Россия,YAR,"Ярославская Область",,,Басова,,Europe/Moscow,0
 578832,ru,EU,Европа,RU,Россия,UD,Удмуртия,,,Башур,,Europe/Samara,0
 578853,ru,EU,Европа,RU,Россия,BA,Башкортостан,,,,,Asia/Yekaterinburg,0
+578931,ru,EU,Европа,RU,Россия,ULY,"Ульяновская Область",,,Барыш,,Europe/Ulyanovsk,0
 579261,ru,EU,Европа,RU,Россия,BA,Башкортостан,,,Бурангулово,,Asia/Yekaterinburg,0
 579460,ru,EU,Европа,RU,Россия,SAR,"Саратовская Область",,,Балашов,,Europe/Saratov,0
 579464,ru,EU,Европа,RU,Россия,MOS,"Московская область",,,Балашиха,,Europe/Moscow,0
@@ -2812,7 +2812,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 655808,ru,EU,Европа,FI,Финляндия,13,"Северная Карелия",,,Йоэнсуу,,Europe/Helsinki,1
 655812,ru,EU,Европа,FI,Финляндия,19,Варсинайс-Суоми,,,Йоенсуу,,Europe/Helsinki,1
 655848,ru,EU,Европа,FI,Финляндия,12,Остроботния,,,Йеппо,,Europe/Helsinki,1
-655952,ru,EU,Европа,FI,Финляндия,04,"Южное Саво",,,Ярвенпя,,Europe/Helsinki,1
+655956,ru,EU,Европа,FI,Финляндия,04,"Южное Саво",,,Ярвенпяя,,Europe/Helsinki,1
 655958,ru,EU,Европа,FI,Финляндия,18,Уусимаа,,,Ярвенпяя,,Europe/Helsinki,1
 656130,ru,EU,Европа,FI,Финляндия,12,Остроботния,,,Якобстад,,Europe/Helsinki,1
 656176,ru,EU,Европа,FI,Финляндия,14,"Северная Остроботния",,,Яяли,,Europe/Helsinki,1
@@ -3436,6 +3436,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 696108,ru,EU,Европа,UA,Украина,74,"Черниговская область",,,Прилуки,,Europe/Kyiv,0
 696292,ru,EU,Европа,UA,Украина,23,"Запорожская область",,,Приморск,,Europe/Kyiv,0
 696557,ru,EU,Европа,UA,Украина,18,"Житомирская область",,,Попельня,,Europe/Kyiv,0
+696611,ru,EU,Европа,UA,Украина,21,"Закарпатская область",,,Поляна,,Europe/Kyiv,0
 696634,ru,EU,Европа,UA,Украина,53,"Полтавская область",,,,,Europe/Kyiv,0
 696643,ru,EU,Европа,UA,Украина,53,"Полтавская область",,,Полтава,,Europe/Kyiv,0
 696660,ru,EU,Европа,UA,Украина,68,"Хмельницкая область",,,Полонное,,Europe/Kyiv,0
@@ -5170,6 +5171,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 819596,ru,EU,Европа,RU,Россия,BRY,"Брянская Область",,,Нива,,Europe/Moscow,0
 819838,ru,EU,Европа,RU,Россия,MOS,"Московская область",,,Фруктовая,,Europe/Moscow,0
 819949,ru,EU,Европа,RU,Россия,BRY,"Брянская Область",,,,,Europe/Moscow,0
+821593,ru,EU,Европа,RU,Россия,RYA,"Рязанская Область",,,"Красная Звезда",,Europe/Moscow,0
 823524,ru,EU,Европа,RU,Россия,PSK,"Псковская Область",,,Партизанская,,Europe/Moscow,0
 823748,ru,AS,Азия,AM,Армения,TV,"Тавушская область",,,Азатамут,,Asia/Yerevan,0
 824153,ru,EU,Европа,MD,Молдова,CU,Кишинёв,,,Чореску,,Europe/Chisinau,0
@@ -6224,6 +6226,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1255744,ru,AS,Азия,IN,Индия,HR,Харьяна,,,Сонипат,,Asia/Kolkata,0
 1255850,ru,AS,Азия,IN,Индия,HP,Химачал-Прадеш,,,Солана,,Asia/Kolkata,0
 1255870,ru,AS,Азия,IN,Индия,HR,Харьяна,,,Сохна,,Asia/Kolkata,0
+1255927,ru,AS,Азия,IN,Индия,BR,Бихар,,,Сиван,,Asia/Kolkata,0
 1255947,ru,AS,Азия,IN,Индия,TN,Тамилнад,,,Шивакаси,,Asia/Kolkata,0
 1255955,ru,AS,Азия,IN,Индия,WB,"Западная Бенгалия",,,,,Asia/Kolkata,0
 1255963,ru,AS,Азия,IN,Индия,UK,,,,,,Asia/Kolkata,0
@@ -6361,6 +6364,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1259005,ru,AS,Азия,IN,Индия,CG,Чхаттисгарх,,,Райгарх,,Asia/Kolkata,0
 1259009,ru,AS,Азия,IN,Индия,WB,"Западная Бенгалия",,,Райгандж,,Asia/Kolkata,0
 1259012,ru,AS,Азия,IN,Индия,KA,Карнатака,,,Райчур,,Asia/Kolkata,0
+1259018,ru,AS,Азия,IN,Индия,HR,Харьяна,,,,,Asia/Kolkata,0
 1259022,ru,AS,Азия,IN,Индия,PB,Пенджаб,,,,,Asia/Kolkata,0
 1259056,ru,AS,Азия,IN,Индия,MP,Мадхья-Прадеш,,,,,Asia/Kolkata,0
 1259064,ru,AS,Азия,IN,Индия,UP,Уттар-Прадеш,,,Рай-Барели,,Asia/Kolkata,0
@@ -7419,6 +7423,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1494114,ru,EU,Европа,RU,Россия,KEM,Кузба́сс,,,Прокопьевск,,Asia/Novokuznetsk,0
 1494456,ru,EU,Европа,RU,Россия,KEM,Кузба́сс,,,Полысаево,,Asia/Novokuznetsk,0
 1494573,ru,EU,Европа,RU,Россия,SVE,"Свердловская Область",,,Полевской,,Asia/Yekaterinburg,0
+1494628,ru,EU,Европа,RU,Россия,OMS,"Омская Область",,,Покрово-Иртышское,,Asia/Omsk,0
 1494706,ru,EU,Европа,RU,Россия,KYA,"Красноярский Край",,,Пограничная,,Asia/Krasnoyarsk,0
 1494787,ru,EU,Европа,RU,Россия,KYA,"Красноярский Край",,,Подгорный,,Asia/Krasnoyarsk,0
 1494907,ru,EU,Европа,RU,Россия,CHE,Челябинская,,,Пласт,,Asia/Yekaterinburg,0
@@ -8022,6 +8027,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1624647,ru,AS,Азия,ID,Индонезия,JB,"Западная Ява",,,Тасикмалая,,Asia/Jakarta,0
 1624725,ru,AS,Азия,ID,Индонезия,KU,,,,Таракан,,Asia/Makassar,0
 1624827,ru,AS,Азия,ID,Индонезия,KU,,,,,,Asia/Makassar,0
+1624843,ru,AS,Азия,ID,Индонезия,KI,,,,,,Asia/Makassar,0
 1624863,ru,AS,Азия,ID,Индонезия,KR,,,,Танджунгпинанг,,Asia/Jakarta,0
 1624917,ru,AS,Азия,ID,Индонезия,LA,,,,Бандар-Лампунг,,Asia/Jakarta,0
 1624974,ru,AS,Азия,ID,Индонезия,KR,,,,,,Asia/Jakarta,0
@@ -8215,6 +8221,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1639993,ru,AS,Азия,ID,Индонезия,BA,Бали,,,Кинтамани,,Asia/Makassar,0
 1640130,ru,AS,Азия,ID,Индонезия,JI,"Восточная Ява",,,,,Asia/Jakarta,0
 1640135,ru,AS,Азия,ID,Индонезия,KB,,,,,,Asia/Pontianak,0
+1640296,ru,AS,Азия,ID,Индонезия,JI,"Восточная Ява",,,,,Asia/Jakarta,0
 1640344,ru,AS,Азия,ID,Индонезия,SG,,,,Кендари,,Asia/Makassar,0
 1640350,ru,AS,Азия,ID,Индонезия,JT,,,,,,Asia/Jakarta,0
 1640660,ru,AS,Азия,ID,Индонезия,JI,"Восточная Ява",,,Кедири,,Asia/Jakarta,0
@@ -8234,6 +8241,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1641900,ru,AS,Азия,ID,Индонезия,KB,,,,,,Asia/Pontianak,0
 1642414,ru,AS,Азия,ID,Индонезия,JI,"Восточная Ява",,,Джомбанг,,Asia/Jakarta,0
 1642415,ru,AS,Азия,ID,Индонезия,JB,"Западная Ява",,,,,Asia/Jakarta,0
+1642467,ru,AS,Азия,ID,Индонезия,BA,Бали,,,Джимбаран,,Asia/Makassar,0
 1642548,ru,AS,Азия,ID,Индонезия,JT,,,,Джепара,,Asia/Jakarta,0
 1642585,ru,AS,Азия,ID,Индонезия,BA,Бали,,,,,Asia/Makassar,0
 1642587,ru,AS,Азия,ID,Индонезия,JI,"Восточная Ява",,,,,Asia/Jakarta,0
@@ -8459,6 +8467,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1671929,ru,AS,Азия,TW,Тайвань,NAN,,,,,,Asia/Taipei,0
 1671968,ru,AS,Азия,TW,Тайвань,MIA,,,,,,Asia/Taipei,0
 1671971,ru,AS,Азия,TW,Тайвань,MIA,,,,,,Asia/Taipei,0
+1672082,ru,AS,Азия,TW,Тайвань,LIE,,,,,,Asia/Taipei,0
 1672422,ru,AS,Азия,TW,Тайвань,TAO,Таоюань,,,,,Asia/Taipei,0
 1672486,ru,AS,Азия,TW,Тайвань,TXG,,,,,,Asia/Taipei,0
 1672556,ru,AS,Азия,TW,Тайвань,CHA,,,,,,Asia/Taipei,0
@@ -8538,6 +8547,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1679431,ru,AS,Азия,PH,Филиппины,01,Илокос,ILN,,,,Asia/Manila,0
 1679432,ru,AS,Азия,PH,Филиппины,09,"Полуостров Замбоанга",ZAS,,Замбоанга,,Asia/Manila,0
 1679435,ru,AS,Азия,PH,Филиппины,03,"Центральный Лусон",ZMB,,,,Asia/Manila,0
+1679842,ru,AS,Азия,PH,Филиппины,02,"Долина Кагаян",NUV,,,,Asia/Manila,0
 1679980,ru,AS,Азия,PH,Филиппины,01,Илокос,ILS,,Виган,,Asia/Manila,0
 1680097,ru,AS,Азия,PH,Филиппины,06,"Западные Висайи",NEC,,,,Asia/Manila,0
 1680102,ru,AS,Азия,PH,Филиппины,00,,,,Валензуела,,Asia/Manila,0
@@ -10834,6 +10844,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1863531,ru,AS,Азия,JP,Япония,13,Токио,,,,,Asia/Tokyo,0
 1863539,ru,AS,Азия,JP,Япония,15,Ниигата,,,,,Asia/Tokyo,0
 1863541,ru,AS,Азия,JP,Япония,29,Нара,,,Госе,,Asia/Tokyo,0
+1863555,ru,AS,Азия,JP,Япония,26,Киото,,,,,Asia/Tokyo,0
 1863592,ru,AS,Азия,JP,Япония,29,Нара,,,Годзё,,Asia/Tokyo,0
 1863611,ru,AS,Азия,JP,Япония,21,Гифу,,,Года,,Asia/Tokyo,0
 1863614,ru,AS,Азия,JP,Япония,30,Вакаяма,,,Гобо,,Asia/Tokyo,0
@@ -10970,6 +10981,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 1880252,ru,AS,Азия,SG,Сингапур,,,,,Сингапур,,Asia/Singapore,0
 1880348,ru,AS,Азия,SG,Сингапур,,,,,Пунггол,,Asia/Singapore,0
 1880486,ru,AS,Азия,SG,Сингапур,,,,,,,Asia/Singapore,0
+1880532,ru,AS,Азия,SG,Сингапур,,,,,,,Asia/Singapore,0
 1880712,ru,AS,Азия,SG,Сингапур,,,,,,,Asia/Singapore,0
 1880723,ru,AS,Азия,SG,Сингапур,,,,,,,Asia/Singapore,0
 1880734,ru,AS,Азия,SG,Сингапур,,,,,,,Asia/Singapore,0
@@ -11834,6 +11846,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2121762,ru,EU,Европа,RU,Россия,KAM,"Камчатский край",,,Пущино,,Asia/Kamchatka,0
 2121909,ru,EU,Европа,RU,Россия,SAK,Сахалин,,,Поронайск,,Asia/Sakhalin,0
 2122104,ru,EU,Европа,RU,Россия,KAM,"Камчатский край",,,Петропавловск-Камчатский,,Asia/Kamchatka,0
+2122256,ru,EU,Европа,RU,Россия,MAG,"Магаданская Область",,,Палатка,,Asia/Magadan,0
 2122262,ru,EU,Европа,RU,Россия,KAM,"Камчатский край",,,Палана,,Asia/Kamchatka,0
 2122293,ru,EU,Европа,RU,Россия,KAM,"Камчатский край",,,Озерновский,,Asia/Kamchatka,0
 2122389,ru,EU,Европа,RU,Россия,KAM,"Камчатский край",,,Оссора,,Asia/Kamchatka,0
@@ -16937,7 +16950,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2644603,ru,EU,Европа,GB,Британия,SCT,Шотландия,FIF,Файф,,,Europe/London,0
 2644605,ru,EU,Европа,GB,Британия,SCT,Шотландия,ZET,"Шетландские острова",Леруик,,Europe/London,0
 2644613,ru,EU,Европа,GB,Британия,ENG,Англия,HEF,,Леминстер,,Europe/London,0
-2644641,ru,EU,Европа,GB,Британия,SCT,Шотландия,EDH,,Лит,,Europe/London,0
 2644642,ru,EU,Европа,GB,Британия,ENG,Англия,SFK,Саффолк,,,Europe/London,0
 2644652,ru,EU,Европа,GB,Британия,ENG,Англия,CBF,"Центральный Бедфордшир",,,Europe/London,0
 2644653,ru,EU,Европа,GB,Британия,ENG,Англия,CAM,Кембридж,,,Europe/London,0
@@ -20414,6 +20426,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2732438,ru,EU,Европа,PT,Португалия,17,Вила-Реал,,,Вила-Реал,,Europe/Lisbon,1
 2732513,ru,EU,Европа,PT,Португалия,01,,,,,,Europe/Lisbon,1
 2732516,ru,EU,Европа,PT,Португалия,16,Виана-ду-Каштелу,,,,,Europe/Lisbon,1
+2732539,ru,EU,Европа,PT,Португалия,18,Визеу,,,,,Europe/Lisbon,1
 2732544,ru,EU,Европа,PT,Португалия,13,Порту,,,Вила-Нова-де-Гайя,,Europe/Lisbon,1
 2732547,ru,EU,Европа,PT,Португалия,03,Брага,,,,,Europe/Lisbon,1
 2732649,ru,EU,Европа,PT,Португалия,13,Порту,,,Вила-ду-Конде,,Europe/Lisbon,1
@@ -20443,8 +20456,8 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2733849,ru,EU,Европа,PT,Португалия,13,Порту,,,,,Europe/Lisbon,1
 2733851,ru,EU,Европа,PT,Португалия,06,Коимбра,,,Сори,,Europe/Lisbon,1
 2733885,ru,EU,Европа,PT,Португалия,13,Порту,,,,,Europe/Lisbon,1
-2733936,ru,EU,Европа,PT,Португалия,01,,,,,,Europe/Lisbon,1
 2733941,ru,EU,Европа,PT,Португалия,13,Порту,,,,,Europe/Lisbon,1
+2733942,ru,EU,Европа,PT,Португалия,18,Визеу,,,,,Europe/Lisbon,1
 2734024,ru,EU,Европа,PT,Португалия,01,,,,,,Europe/Lisbon,1
 2734140,ru,EU,Европа,PT,Португалия,13,Порту,,,,,Europe/Lisbon,1
 2734184,ru,EU,Европа,PT,Португалия,06,Коимбра,,,,,Europe/Lisbon,1
@@ -20569,7 +20582,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2739949,ru,EU,Европа,PT,Португалия,01,,,,,,Europe/Lisbon,1
 2739997,ru,EU,Европа,PT,Португалия,13,Порту,,,Эрмезинде,,Europe/Lisbon,1
 2740062,ru,EU,Европа,PT,Португалия,13,Порту,,,,,Europe/Lisbon,1
-2740159,ru,EU,Европа,PT,Португалия,16,Виана-ду-Каштелу,,,,,Europe/Lisbon,1
 2740221,ru,EU,Европа,PT,Португалия,01,,,,,,Europe/Lisbon,1
 2740313,ru,EU,Европа,PT,Португалия,05,Каштелу-Бранку,,,Ковильян,,Europe/Lisbon,1
 2740637,ru,EU,Европа,PT,Португалия,06,Коимбра,,,Коимбра,,Europe/Lisbon,1
@@ -22680,6 +22692,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2778953,ru,EU,Европа,AT,Австрия,7,Тироль,,,Гальтюр,,Europe/Vienna,1
 2778963,ru,EU,Европа,AT,Австрия,4,"Верхняя Австрия",,,Гальспах,,Europe/Vienna,1
 2778966,ru,EU,Европа,AT,Австрия,4,"Верхняя Австрия",,,Гальнойкирхен,,Europe/Vienna,1
+2778996,ru,EU,Европа,AT,Австрия,8,Форарльберг,,,,,Europe/Vienna,1
 2779048,ru,EU,Европа,AT,Австрия,4,"Верхняя Австрия",,,Гафленц,,Europe/Vienna,1
 2779061,ru,EU,Европа,AT,Австрия,3,"Нижняя Австрия",,,Габлиц,,Europe/Vienna,1
 2779082,ru,EU,Европа,AT,Австрия,8,Форарльберг,,,Фуссах,,Europe/Vienna,1
@@ -24204,7 +24217,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2832495,ru,EU,Европа,DE,ФРГ,NW,"Северный Рейн-Вестфалия",,,Зиген,,Europe/Berlin,1
 2832521,ru,EU,Европа,DE,ФРГ,NW,"Северный Рейн-Вестфалия",,,Зигбург,,Europe/Berlin,1
 2832529,ru,EU,Европа,DE,ФРГ,RP,Рейнланд-Пфальц,,,,,Europe/Berlin,1
-2832551,ru,EU,Европа,DE,ФРГ,SH,Шлезвиг-Гольштейн,,,,,Europe/Berlin,1
 2832838,ru,EU,Европа,DE,ФРГ,BY,Бавария,,,Зайботенройт,,Europe/Berlin,1
 2832841,ru,EU,Европа,DE,ФРГ,BW,Баден-Вюртемберг,,,Зексау,,Europe/Berlin,1
 2832851,ru,EU,Европа,DE,ФРГ,MV,"Мекленбург — Передняя Померания",,,,,Europe/Berlin,1
@@ -24981,8 +24993,8 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2865560,ru,EU,Европа,DE,ФРГ,BW,Баден-Вюртемберг,,,Нойенштадт-ам-Кохер,,Europe/Berlin,1
 2865575,ru,EU,Европа,DE,ФРГ,SN,Саксония,,,Нойензальц,,Europe/Berlin,1
 2865592,ru,EU,Европа,DE,ФРГ,NW,"Северный Рейн-Вестфалия",,,Нойенраде,,Europe/Berlin,1
+2865637,ru,EU,Европа,DE,ФРГ,NI,"Нижняя Саксония",,,,,Europe/Berlin,1
 2865641,ru,EU,Европа,DE,ФРГ,NW,"Северный Рейн-Вестфалия",,,,,Europe/Berlin,1
-2865642,ru,EU,Европа,DE,ФРГ,NI,"Нижняя Саксония",,,,,Europe/Berlin,1
 2865692,ru,EU,Европа,DE,ФРГ,NI,"Нижняя Саксония",,,Нойенхаус,,Europe/Berlin,1
 2865798,ru,EU,Европа,DE,ФРГ,BY,Бавария,,,Нойендеттельзау,,Europe/Berlin,1
 2865812,ru,EU,Европа,DE,ФРГ,BW,Баден-Вюртемберг,,,Нойенбюрг,,Europe/Berlin,1
@@ -29358,6 +29370,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 2981379,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,72,Сарта,,,Europe/Paris,1
 2981382,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,53,Майен,,,Europe/Paris,1
 2981384,ru,EU,Европа,FR,Франция,ARA,"Овернь — Рона — Альпы",73,Савойя,,,Europe/Paris,1
+2981393,ru,EU,Европа,FR,Франция,CVL,"Центр — Долина Луары",45,Луаре,,,Europe/Paris,1
 2981408,ru,EU,Европа,FR,Франция,NAQ,,86,,,,Europe/Paris,1
 2981416,ru,EU,Европа,FR,Франция,BFC,"Бургундия — Франш-Конте",58,Ньевр,,,Europe/Paris,1
 2981434,ru,EU,Европа,FR,Франция,OCC,,34,,,,Europe/Paris,1
@@ -31648,6 +31661,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3005282,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,44,"Атлантическая Луара",,,Europe/Paris,1
 3005326,ru,EU,Европа,FR,Франция,PAC,"Прованс — Альпы — Лазурный Берег",83,Вар,Ле-Босе,,Europe/Paris,1
 3005358,ru,EU,Европа,FR,Франция,PAC,"Прованс — Альпы — Лазурный Берег",06,"Приморские Альпы",Ле-Бар-сюр-Лу,,Europe/Paris,1
+3005359,ru,EU,Европа,FR,Франция,PAC,"Прованс — Альпы — Лазурный Берег",84,Воклюз,Ле-Барру,,Europe/Paris,1
 3005360,ru,EU,Европа,FR,Франция,NAQ,,33,,,,Europe/Paris,1
 3005364,ru,EU,Европа,FR,Франция,OCC,,66,,"Ел Баркарес",,Europe/Paris,1
 3005416,ru,EU,Европа,FR,Франция,ARA,"Овернь — Рона — Альпы",42,Луара,,,Europe/Paris,1
@@ -32242,6 +32256,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3013283,ru,EU,Европа,FR,Франция,BRE,Бретань,22,Кот-д’Армор,,,Europe/Paris,1
 3013294,ru,EU,Европа,FR,Франция,NAQ,,16,,Йерсак,,Europe/Paris,1
 3013302,ru,EU,Европа,FR,Франция,OCC,,65,,,,Europe/Paris,1
+3013323,ru,EU,Европа,FR,Франция,NOR,Нормандия,76,"Приморская Сена",,,Europe/Paris,1
 3013342,ru,EU,Европа,FR,Франция,NOR,Нормандия,27,Эр,,,Europe/Paris,1
 3013350,ru,EU,Европа,FR,Франция,GES,Гранд-Эст,57,Мозель,Еттанж-Гранд,,Europe/Paris,1
 3013372,ru,EU,Европа,FR,Франция,ARA,"Овернь — Рона — Альпы",74,"Верхняя Савойя",,,Europe/Paris,1
@@ -33380,6 +33395,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3023291,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,72,Сарта,,,Europe/Paris,1
 3023309,ru,EU,Европа,FR,Франция,OCC,,81,,Куфулё,,Europe/Paris,1
 3023324,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,44,"Атлантическая Луара",Куерон,,Europe/Paris,1
+3023328,ru,EU,Европа,FR,Франция,HDF,О-де-Франс,60,Уаза,,,Europe/Paris,1
 3023331,ru,EU,Европа,FR,Франция,NOR,Нормандия,27,Эр,,,Europe/Paris,1
 3023342,ru,EU,Европа,FR,Франция,PDL,Пеи-де-ла-Луар,53,Майен,,,Europe/Paris,1
 3023344,ru,EU,Европа,FR,Франция,PAC,"Прованс — Альпы — Лазурный Берег",13,Буш-дю-Рон,Куду,,Europe/Paris,1
@@ -35620,7 +35636,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3058014,ru,EU,Европа,SK,Словакия,ZI,"Жилинский край",,,,,Europe/Bratislava,1
 3058018,ru,EU,Европа,SK,Словакия,NI,"Нитранский край",,,,,Europe/Bratislava,1
 3058060,ru,EU,Европа,SK,Словакия,TC,,,,Поважска-Бистрица,,Europe/Bratislava,1
-3058083,ru,EU,Европа,SK,Словакия,BC,"Банска-Бистрицкий край",,,Полтар,,Europe/Bratislava,1
 3058155,ru,EU,Европа,SK,Словакия,BC,"Банска-Бистрицкий край",,,,,Europe/Bratislava,1
 3058183,ru,EU,Европа,SK,Словакия,BL,"Братиславский край",,,,,Europe/Bratislava,1
 3058190,ru,EU,Европа,SK,Словакия,BC,"Банска-Бистрицкий край",,,,,Europe/Bratislava,1
@@ -35714,7 +35729,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3060174,ru,EU,Европа,SK,Словакия,ZI,"Жилинский край",,,,,Europe/Bratislava,1
 3060201,ru,EU,Европа,SK,Словакия,BL,"Братиславский край",,,,,Europe/Bratislava,1
 3060208,ru,EU,Европа,SK,Словакия,TA,"Трнавский край",,,,,Europe/Bratislava,1
-3060210,ru,EU,Европа,SK,Словакия,ZI,"Жилинский край",,,,,Europe/Bratislava,1
 3060219,ru,EU,Европа,SK,Словакия,TA,"Трнавский край",,,Галанта,,Europe/Bratislava,1
 3060242,ru,EU,Европа,SK,Словакия,BC,"Банска-Бистрицкий край",,,Филяково,,Europe/Bratislava,1
 3060266,ru,EU,Европа,SK,Словакия,NI,"Нитранский край",,,,,Europe/Bratislava,1
@@ -36001,6 +36015,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3066727,ru,EU,Европа,CZ,Чехия,42,,423,Литомержице,Роуднице-над-Лабем,,Europe/Prague,1
 3066735,ru,EU,Европа,CZ,Чехия,63,,634,Тршебич,,,Europe/Prague,1
 3066756,ru,EU,Европа,CZ,Чехия,53,,532,Пардубице,,,Europe/Prague,1
+3066757,ru,EU,Европа,CZ,Чехия,53,,531,Хрудим,,,Europe/Prague,1
 3066759,ru,EU,Европа,CZ,Чехия,64,"Южноморавский край",643,,Росице,,Europe/Prague,1
 3066778,ru,EU,Европа,CZ,Чехия,53,,532,Пардубице,,,Europe/Prague,1
 3066786,ru,EU,Европа,CZ,Чехия,71,,714,Пршеров,,,Europe/Prague,1
@@ -39810,7 +39825,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3170655,ru,EU,Европа,IT,Италия,34,Венеция,VI,,,,Europe/Rome,1
 3170657,ru,EU,Европа,IT,Италия,34,Венеция,PD,,,,Europe/Rome,1
 3170659,ru,EU,Европа,IT,Италия,21,Пьемонт,TO,,,,Europe/Rome,1
-3170660,ru,EU,Европа,IT,Италия,57,Марке,MC,,,,Europe/Rome,1
 3170670,ru,EU,Европа,IT,Италия,34,Венеция,PD,,,,Europe/Rome,1
 3170674,ru,EU,Европа,IT,Италия,52,Тоскана,LI,,Пьомбино,,Europe/Rome,1
 3170676,ru,EU,Европа,IT,Италия,25,,MI,,,,Europe/Rome,1
@@ -40081,7 +40095,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3172834,ru,EU,Европа,IT,Италия,72,Кампания,AV,,Монтемилетто,,Europe/Rome,1
 3172845,ru,EU,Европа,IT,Италия,57,Марке,AN,,,,Europe/Rome,1
 3172861,ru,EU,Европа,IT,Италия,52,Тоскана,FI,,,,Europe/Rome,1
-3172874,ru,EU,Европа,IT,Италия,55,Умбрия,PG,,,,Europe/Rome,1
 3172883,ru,EU,Европа,IT,Италия,57,Марке,PU,,Монтелаббате,,Europe/Rome,1
 3172890,ru,EU,Европа,IT,Италия,34,Венеция,PD,,,,Europe/Rome,1
 3172896,ru,EU,Европа,IT,Италия,57,Марке,FM,,,,Europe/Rome,1
@@ -41331,7 +41344,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3183140,ru,EU,Европа,IT,Италия,72,Кампания,CE,,,,Europe/Rome,1
 3183147,ru,EU,Европа,IT,Италия,52,Тоскана,LU,,,,Europe/Rome,1
 3183163,ru,EU,Европа,IT,Италия,65,Абруццо,CH,,Алтино,,Europe/Rome,1
-3183165,ru,EU,Европа,IT,Италия,57,Марке,FM,,Алтидона,,Europe/Rome,1
 3183169,ru,EU,Европа,IT,Италия,34,Венеция,VI,,,,Europe/Rome,1
 3183178,ru,EU,Европа,IT,Италия,75,Апулия,BA,,Алтамура,,Europe/Rome,1
 3183184,ru,EU,Европа,IT,Италия,45,,PC,,,,Europe/Rome,1
@@ -44136,6 +44148,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3448219,ru,SA,"Южная Америка",BR,Бразилия,BA,,,,,,America/Bahia,0
 3448221,ru,SA,"Южная Америка",BR,Бразилия,MG,Минас-Жерайс,,,Сан-Себастьян-ду-Параисо,,America/Sao_Paulo,0
 3448227,ru,SA,"Южная Америка",BR,Бразилия,RS,,,,,,America/Sao_Paulo,0
+3448230,ru,SA,"Южная Америка",BR,Бразилия,RJ,Рио-де-Жанейро,,,,,America/Sao_Paulo,0
 3448237,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,,,America/Sao_Paulo,0
 3448240,ru,SA,"Южная Америка",BR,Бразилия,PR,Парана,,,,,America/Sao_Paulo,0
 3448257,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,Сан-Себастьян,,America/Sao_Paulo,0
@@ -44400,6 +44413,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3451121,ru,SA,"Южная Америка",BR,Бразилия,PR,Парана,,,,,America/Sao_Paulo,0
 3451123,ru,SA,"Южная Америка",BR,Бразилия,MS,Ма́ту-Гро́су-ду-Сул,,,,,America/Campo_Grande,0
 3451124,ru,SA,"Южная Америка",BR,Бразилия,SC,Санта-Катарина,,,,,America/Sao_Paulo,0
+3451126,ru,SA,"Южная Америка",BR,Бразилия,MG,Минас-Жерайс,,,,,America/Sao_Paulo,0
 3451133,ru,SA,"Южная Америка",BR,Бразилия,RS,,,,,,America/Sao_Paulo,0
 3451134,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,,,America/Sao_Paulo,0
 3451138,ru,SA,"Южная Америка",BR,Бразилия,RS,,,,Рио-Гранде,,America/Sao_Paulo,0
@@ -44755,6 +44769,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3455793,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,,,America/Sao_Paulo,0
 3455903,ru,SA,"Южная Америка",BR,Бразилия,BA,,,,,,America/Bahia,0
 3455908,ru,SA,"Южная Америка",BR,Бразилия,MG,Минас-Жерайс,,,Оливейра,,America/Sao_Paulo,0
+3455913,ru,SA,"Южная Америка",BR,Бразилия,BA,,,,,,America/Bahia,0
 3455918,ru,SA,"Южная Америка",BR,Бразилия,RS,,,,,,America/Sao_Paulo,0
 3455923,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,Олимпия,,America/Sao_Paulo,0
 3456060,ru,SA,"Южная Америка",BR,Бразилия,SP,Сан-Паулу,,,,,America/Sao_Paulo,0
@@ -46791,7 +46806,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3528756,ru,NA,"Северная Америка",MX,Мексика,TAM,Тамаулипас,,,Манте,,America/Monterrey,0
 3529274,ru,NA,"Северная Америка",MX,Мексика,NLE,,,,,,America/Monterrey,0
 3529612,ru,NA,"Северная Америка",MX,Мексика,MEX,Мехико,,,Экатепек-де-Морелос,,America/Mexico_City,0
-3529660,ru,NA,"Северная Америка",MX,Мексика,YUC,Юкатан,,,Цицантун,,America/Merida,0
 3529672,ru,NA,"Северная Америка",MX,Мексика,YUC,Юкатан,,,Дсан,,America/Merida,0
 3529778,ru,NA,"Северная Америка",MX,Мексика,OAX,Оахака,,,"Вилла Диас Ордас",,America/Mexico_City,0
 3529886,ru,NA,"Северная Америка",MX,Мексика,TAB,Табаско,,,Кундуакан,,America/Mexico_City,0
@@ -46816,7 +46830,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3530240,ru,NA,"Северная Америка",MX,Мексика,VER,Веракрус,,,Кордова,,America/Mexico_City,0
 3530264,ru,NA,"Северная Америка",MX,Мексика,GRO,Герреро,,,Копала,,America/Mexico_City,0
 3530276,ru,NA,"Северная Америка",MX,Мексика,TLA,Тласкала,,,Контла,,America/Mexico_City,0
-3530295,ru,NA,"Северная Америка",MX,Мексика,YUC,Юкатан,,,Конкал,,America/Merida,0
 3530301,ru,NA,"Северная Америка",MX,Мексика,NLE,,,,,,America/Monterrey,0
 3530367,ru,NA,"Северная Америка",MX,Мексика,CHP,Чьяпас,,,Комитан-де-Домингес,,America/Merida,0
 3530369,ru,NA,"Северная Америка",MX,Мексика,OAX,Оахака,,,"Сан Педро Комитансильо",,America/Mexico_City,0
@@ -47363,6 +47376,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3621430,ru,NA,"Северная Америка",CR,Коста-Рика,L,Лимон,,,,,America/Costa_Rica,0
 3621440,ru,NA,"Северная Америка",CR,Коста-Рика,L,Лимон,,,,,America/Costa_Rica,0
 3621505,ru,NA,"Северная Америка",CR,Коста-Рика,SJ,,,,,,America/Costa_Rica,0
+3621524,ru,NA,"Северная Америка",CR,Коста-Рика,SJ,,,,,,America/Costa_Rica,0
 3621577,ru,NA,"Северная Америка",CR,Коста-Рика,H,Эредия,,,,,America/Costa_Rica,0
 3621607,ru,NA,"Северная Америка",CR,Коста-Рика,G,Гуанакасте,,,,,America/Costa_Rica,0
 3621630,ru,NA,"Северная Америка",CR,Коста-Рика,SJ,,,,,,America/Costa_Rica,0
@@ -47574,6 +47588,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3642031,ru,SA,"Южная Америка",VE,Венесуэла,S,,,,,,America/Caracas,0
 3642409,ru,SA,"Южная Америка",VE,Венесуэла,C,,,,,,America/Caracas,0
 3642497,ru,SA,"Южная Америка",VE,Венесуэла,B,,,,,,America/Caracas,0
+3642833,ru,SA,"Южная Америка",VE,Венесуэла,D,,,,Эль-Лимон,,America/Caracas,0
 3643361,ru,SA,"Южная Америка",VE,Венесуэла,T,,,,,,America/Caracas,0
 3644571,ru,SA,"Южная Америка",VE,Венесуэла,I,,,,,,America/Caracas,0
 3644767,ru,SA,"Южная Америка",VE,Венесуэла,R,,,,,,America/Caracas,0
@@ -47905,6 +47920,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3666939,ru,SA,"Южная Америка",CO,Колумбия,SUC,Сукре,,,Тол,,America/Bogota,0
 3666951,ru,SA,"Южная Америка",CO,Колумбия,TOL,Толима,,,,,America/Bogota,0
 3666959,ru,SA,"Южная Америка",CO,Колумбия,NSA,"Северный Сантандер",,,Толедо,,America/Bogota,0
+3666960,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,Толедо,,America/Bogota,0
 3666997,ru,SA,"Южная Америка",CO,Колумбия,CUN,Кундинамарка,,,,,America/Bogota,0
 3667082,ru,SA,"Южная Америка",CO,Колумбия,HUI,Уила,,,,,America/Bogota,0
 3667202,ru,SA,"Южная Америка",CO,Колумбия,NSA,"Северный Сантандер",,,,,America/Bogota,0
@@ -48170,6 +48186,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3685712,ru,SA,"Южная Америка",CO,Колумбия,SUC,Сукре,,,,,America/Bogota,0
 3685733,ru,SA,"Южная Америка",CO,Колумбия,CUN,Кундинамарка,,,,,America/Bogota,0
 3685823,ru,SA,"Южная Америка",CO,Колумбия,SUC,Сукре,,,Коросаль,,America/Bogota,0
+3685900,ru,SA,"Южная Америка",CO,Колумбия,QUI,Киндио,,,,,America/Bogota,0
 3685949,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,Копакабана,,America/Bogota,0
 3685955,ru,SA,"Южная Америка",CO,Колумбия,NSA,"Северный Сантандер",,,,,America/Bogota,0
 3685961,ru,SA,"Южная Америка",CO,Колумбия,SAN,Сантандер,,,,,America/Bogota,0
@@ -48251,6 +48268,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3689816,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,,,America/Bogota,0
 3689819,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,,,America/Bogota,0
 3689838,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,,,America/Bogota,0
+3689870,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,,,America/Bogota,0
 3689899,ru,SA,"Южная Америка",CO,Колумбия,ANT,Антьокия,,,Андес,,America/Bogota,0
 3689905,ru,SA,"Южная Америка",CO,Колумбия,VAC,Валье-дель-Каука,,,,,America/Bogota,0
 3689941,ru,SA,"Южная Америка",CO,Колумбия,CUN,Кундинамарка,,,,,America/Bogota,0
@@ -49697,7 +49715,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3992986,ru,NA,"Северная Америка",MX,Мексика,GUA,,,,Пенхамо,,America/Mexico_City,0
 3993126,ru,NA,"Северная Америка",MX,Мексика,QUE,Керетаро,,,"Педро Эскобедо",,America/Mexico_City,0
 3993179,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,Пацкуаро,,America/Mexico_City,0
-3993335,ru,NA,"Северная Америка",MX,Мексика,COA,Коауила,,,Паррас,,America/Monterrey,0
 3993457,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,"Парачо де Вердуско",,America/Mexico_City,0
 3993496,ru,NA,"Северная Америка",MX,Мексика,ZAC,Сакатекас,,,Пануко,,America/Mexico_City,0
 3994104,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,"Сан Хосе де Грасия",,America/Mexico_City,0
@@ -49741,7 +49758,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 3997479,ru,NA,"Северная Америка",MX,Мексика,SIN,Синалоа,,,Лос-Мочис,,America/Mazatlan,0
 3998287,ru,NA,"Северная Америка",MX,Мексика,BCS,"Южная Нижняя Калифорния",,,Лорето,,America/Mazatlan,0
 3998655,ru,NA,"Северная Америка",MX,Мексика,GUA,,,,Леон-де-лос-Альдама,,America/Mexico_City,0
-3998702,ru,NA,"Северная Америка",MX,Мексика,JAL,Халиско,,,,,America/Mexico_City,0
 4000033,ru,NA,"Северная Америка",MX,Мексика,CHH,Чиуауа,,,Крусес,,America/Chihuahua,0
 4000524,ru,NA,"Северная Америка",MX,Мексика,COL,Колима,,,Кесерия,,America/Mexico_City,0
 4000821,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,"Ла Пиедад де Кабадас",,America/Mexico_City,0
@@ -50710,6 +50726,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4152805,ru,NA,"Северная Америка",US,США,FL,Флорида,,,Дэвенпорт,539,America/New_York,0
 4152820,ru,NA,"Северная Америка",US,США,FL,Флорида,,,Дэви,528,America/New_York,0
 4152872,ru,NA,"Северная Америка",US,США,FL,Флорида,,,Дейтона-Бич,534,America/New_York,0
+4152881,ru,NA,"Северная Америка",US,США,FL,Флорида,,,"Дайтона Бич Шорс",534,America/New_York,0
 4152888,ru,NA,"Северная Америка",US,США,FL,Флорида,,,"Дефуниак Спрингс",656,America/Chicago,0
 4152890,ru,NA,"Северная Америка",US,США,FL,Флорида,,,Деланд,534,America/New_York,0
 4152898,ru,NA,"Северная Америка",US,США,FL,Флорида,,,"Де Леон Спрингс",534,America/New_York,0
@@ -52412,7 +52429,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4290988,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,Элизабеттаун,529,America/New_York,0
 4291063,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,,564,America/New_York,0
 4291079,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,Елктон,659,America/Chicago,0
-4291187,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,,564,America/New_York,0
+4291187,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,,541,America/New_York,0
 4291255,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,Эрлангер,515,America/New_York,0
 4291352,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,Юинг,541,America/New_York,0
 4291364,ru,NA,"Северная Америка",US,США,KY,Кентукки,,,,541,America/New_York,0
@@ -53822,6 +53839,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4445170,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,Сардис,640,America/Chicago,0
 4445174,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,,640,America/Chicago,0
 4445217,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,Саусиер,746,America/Chicago,0
+4445277,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,,647,America/Chicago,0
 4445297,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,,711,America/Chicago,0
 4445447,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,Сенатобиа,640,America/Chicago,0
 4445668,ru,NA,"Северная Америка",US,США,MS,Миссисипи,,,Шаннон,673,America/Chicago,0
@@ -53867,6 +53885,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4452256,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Ахоски,544,America/New_York,0
 4452303,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Албемарл,517,America/New_York,0
 4452323,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,545,America/New_York,0
+4452465,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Альянс,545,America/New_York,0
 4452655,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Эндрюс,517,America/New_York,0
 4452686,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Ангиер,560,America/New_York,0
 4452808,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Апекс,560,America/New_York,0
@@ -53965,6 +53984,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4461668,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,"Коннелли Спрингс",517,America/New_York,0
 4461696,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Коновер,517,America/New_York,0
 4461941,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Корнелиус,517,America/New_York,0
+4461962,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,544,America/New_York,0
 4462356,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Крамертон,517,America/New_York,0
 4462446,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Кридмур,560,America/New_York,0
 4462701,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Калловхи,567,America/New_York,0
@@ -54030,6 +54050,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4469297,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,545,America/New_York,0
 4469357,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,517,America/New_York,0
 4469393,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Гилфорд,518,America/New_York,0
+4469607,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,"Халф Мун",545,America/New_York,0
 4469730,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Хамлет,517,America/New_York,0
 4469765,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Хэмпстед,550,America/New_York,0
 4469785,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,518,America/New_York,0
@@ -54063,7 +54084,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4473158,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Джаместаун,518,America/New_York,0
 4473164,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,545,America/New_York,0
 4473202,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,544,America/New_York,0
-4473226,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Джефферсон,517,America/New_York,0
+4473226,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Джефферсон,518,America/New_York,0
 4473796,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Джонесвилл,518,America/New_York,0
 4474040,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Каннаполис,517,America/New_York,0
 4474123,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,550,America/New_York,0
@@ -54294,6 +54315,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4496484,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Валдес,517,America/New_York,0
 4496490,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,517,America/New_York,0
 4496570,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,545,America/New_York,0
+4496671,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,518,America/New_York,0
 4496680,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,,517,America/New_York,0
 4497244,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Вадесборо,517,America/New_York,0
 4497286,ru,NA,"Северная Америка",US,США,NC,"Северная Каролина",,,Уэйк,560,America/New_York,0
@@ -55520,6 +55542,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4621192,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,"Естилл Спрингс",659,America/Chicago,0
 4621196,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,Етовах,575,America/New_York,0
 4621503,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,Фэрвью,659,America/Chicago,0
+4621694,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,"Фол Бранч",531,America/New_York,0
 4621839,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,,524,America/New_York,0
 4621915,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,Фейетвилл,691,America/Chicago,0
 4622833,ru,NA,"Северная Америка",US,США,TN,Теннесси,,,,691,America/Chicago,0
@@ -56472,7 +56495,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4735674,ru,NA,"Северная Америка",US,США,TX,Техас,,,Тейтум,709,America/Chicago,0
 4735702,ru,NA,"Северная Америка",US,США,TX,Техас,,,Тейлор,635,America/Chicago,0
 4735813,ru,NA,"Северная Америка",US,США,TX,Техас,,,Тиг,623,America/Chicago,0
-4735840,ru,NA,"Северная Америка",US,США,TX,Техас,,,,709,America/Chicago,0
 4735886,ru,NA,"Северная Америка",US,США,TX,Техас,,,,623,America/Chicago,0
 4735964,ru,NA,"Северная Америка",US,США,TX,Техас,,,Тенаха,612,America/Chicago,0
 4735966,ru,NA,"Северная Америка",US,США,TX,Техас,,,Темпл,625,America/Chicago,0
@@ -57103,6 +57125,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4808945,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,Хинтон,559,America/New_York,0
 4809537,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,Хантингтон,564,America/New_York,0
 4809558,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,Харрикейн,564,America/New_York,0
+4809766,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,,564,America/New_York,0
 4809881,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,Инвуд,511,America/New_York,0
 4810022,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,Джексон,564,America/New_York,0
 4810696,ru,NA,"Северная Америка",US,США,WV,"Западная Виргиния",,,,511,America/New_York,0
@@ -59243,6 +59266,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4956338,ru,NA,"Северная Америка",US,США,MA,Массачусетс,,,"Ярмут Порт",506,America/New_York,0
 4956398,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,537,America/New_York,0
 4956485,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Эддисон,537,America/New_York,0
+4956545,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Элбион,500,America/New_York,0
 4956740,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,500,America/New_York,0
 4956893,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Арандел,500,America/New_York,0
 4956929,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,552,America/New_York,0
@@ -59417,6 +59441,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 4978095,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Сеарсмонт,500,America/New_York,0
 4978097,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,500,America/New_York,0
 4978130,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,500,America/New_York,0
+4978367,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Шапли,500,America/New_York,0
 4978534,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,537,America/New_York,0
 4978635,ru,NA,"Северная Америка",US,США,ME,Мэн,,,,552,America/New_York,0
 4978701,ru,NA,"Северная Америка",US,США,ME,Мэн,,,Сковхеган,500,America/New_York,0
@@ -61814,6 +61839,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5116060,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Ист Сетаукет",501,America/New_York,0
 5116079,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Ист Сиракьюс",555,America/New_York,0
 5116104,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,501,America/New_York,0
+5116118,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Истчестер,501,America/New_York,0
 5116119,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Истчестер,501,America/New_York,0
 5116157,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,555,America/New_York,0
 5116215,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Еден,514,America/New_York,0
@@ -62270,7 +62296,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5133716,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,532,America/New_York,0
 5133742,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Рхинебек,501,America/New_York,0
 5133816,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,532,America/New_York,0
-5133825,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Ричмонд Хилл",501,America/New_York,0
 5133832,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Ридж,501,America/New_York,0
 5133863,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,501,America/New_York,0
 5133866,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,538,America/New_York,0
@@ -62290,7 +62315,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5134415,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Розлин,501,America/New_York,0
 5134420,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Рослин-Хайтс,501,America/New_York,0
 5134454,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,532,America/New_York,0
-5134484,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,,501,America/New_York,0
 5134565,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Раусес Поинт",523,America/New_York,0
 5134693,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,Рай,501,America/New_York,0
 5134696,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Рай Брук",501,America/New_York,0
@@ -62803,6 +62827,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5166334,ru,NA,"Северная Америка",US,США,OH,Огайо,,,Пайн,509,America/New_York,0
 5166372,ru,NA,"Северная Америка",US,США,OH,Огайо,,,Пембервилл,547,America/New_York,0
 5166389,ru,NA,"Северная Америка",US,США,OH,Огайо,,,,510,America/New_York,0
+5166438,ru,NA,"Северная Америка",US,США,OH,Огайо,,,Пеппер-Пайк,510,America/New_York,0
 5166468,ru,NA,"Северная Америка",US,США,OH,Огайо,,,Перри,510,America/New_York,0
 5166516,ru,NA,"Северная Америка",US,США,OH,Огайо,,,Перрисберг,547,America/New_York,0
 5166543,ru,NA,"Северная Америка",US,США,OH,Огайо,,,,510,America/New_York,0
@@ -63163,6 +63188,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5189308,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,"Фолс Крик",574,America/New_York,0
 5189414,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,Фейетт,508,America/New_York,0
 5189420,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,Фистервил,504,America/New_York,0
+5189457,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,,508,America/New_York,0
 5189584,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,,508,America/New_York,0
 5189599,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,,574,America/New_York,0
 5189828,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,Флитвуд,504,America/New_York,0
@@ -65133,6 +65159,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5364414,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,"Лейк Эрроухед",803,America/Los_Angeles,0
 5364499,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,Лейк-Элсинор,803,America/Los_Angeles,0
 5364514,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,Лейк-Форест,803,America/Los_Angeles,0
+5364549,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,,803,America/Los_Angeles,0
 5364554,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,"Лейк Исабелла",800,America/Los_Angeles,0
 5364753,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,Лейкпорт,807,America/Los_Angeles,0
 5364782,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,Лейксайд,825,America/Los_Angeles,0
@@ -66191,6 +66218,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5536511,ru,NA,"Северная Америка",US,США,UT,Юта,,,"Касл Дейл",770,America/Denver,0
 5536630,ru,NA,"Северная Америка",US,США,UT,Юта,,,Сидар-Сити,770,America/Denver,0
 5537067,ru,NA,"Северная Америка",US,США,UT,Юта,,,Кливленд,770,America/Denver,0
+5537348,ru,NA,"Северная Америка",US,США,UT,Юта,,,,770,America/Denver,0
 5538080,ru,NA,"Северная Америка",US,США,UT,Юта,,,Делта,770,America/Denver,0
 5538668,ru,NA,"Северная Америка",US,США,UT,Юта,,,"Ист Карбон Сити",770,America/Denver,0
 5538882,ru,NA,"Северная Америка",US,США,UT,Юта,,,,770,America/Denver,0
@@ -67832,6 +67860,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5887355,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 5887440,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 5887443,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
+5887448,ru,NA,"Северная Америка",CA,Канада,NU,Нунавут,,,Арвиат,,America/Rankin_Inlet,0
 5887470,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 5887531,ru,NA,"Северная Америка",CA,Канада,BC,"Британская Колумбия",,,,,America/Vancouver,0
 5887630,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
@@ -68135,6 +68164,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5935042,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 5935277,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,Дартмут,,America/Halifax,0
 5935341,ru,NA,"Северная Америка",CA,Канада,MB,Манитоба,,,Дофин,,America/Winnipeg,0
+5935388,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 5935804,ru,NA,"Северная Америка",CA,Канада,BC,"Британская Колумбия",,,Досон-Крик,,America/Dawson_Creek,0
 5936339,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
 5936349,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,,,America/Edmonton,0
@@ -68457,7 +68487,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 5986982,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,,,America/Edmonton,0
 5987650,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 5987868,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
-5987916,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 5988431,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Glace_Bay,0
 5988608,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 5988860,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
@@ -68529,6 +68558,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6035849,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6039722,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,,,America/Edmonton,0
 6041177,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
+6042689,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6043718,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6047817,ru,NA,"Северная Америка",CA,Канада,BC,"Британская Колумбия",,,Лейдисмит,,America/Vancouver,0
 6048131,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
@@ -68538,6 +68568,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6048673,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6048680,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6048773,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
+6048888,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6049035,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6049046,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,Ламонт,,America/Edmonton,0
 6049078,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
@@ -68849,6 +68880,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6094395,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6094406,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6094407,ru,NA,"Северная Америка",CA,Канада,NB,Нью-Брансуик,,,,,America/Moncton,0
+6094447,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6094454,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6094573,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6094578,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,Ошава,,America/Toronto,0
@@ -68958,6 +68990,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6113791,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6113828,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,,,America/Edmonton,0
 6114041,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
+6114063,ru,NA,"Северная Америка",CA,Канада,MB,Манитоба,,,,,America/Winnipeg,0
 6114352,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
 6114428,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6114862,ru,NA,"Северная Америка",CA,Канада,BC,"Британская Колумбия",,,,,America/Vancouver,0
@@ -69008,7 +69041,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6123156,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6124931,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6125653,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
-6125860,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6125862,ru,NA,"Северная Америка",CA,Канада,MB,Манитоба,,,,,America/Winnipeg,0
 6126440,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6126448,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
@@ -69125,7 +69157,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6138369,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6138374,ru,NA,"Северная Америка",CA,Канада,QC,,,,Санкт-Гиацинт,,America/Toronto,0
 6138380,ru,NA,"Северная Америка",CA,Канада,NB,Нью-Брансуик,,,,,America/Moncton,0
-6138383,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6138402,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6138411,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6138415,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
@@ -69377,6 +69408,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6171515,ru,NA,"Северная Америка",CA,Канада,MB,Манитоба,,,,,America/Winnipeg,0
 6171633,ru,NA,"Северная Америка",CA,Канада,BC,"Британская Колумбия",,,Юклулет,,America/Vancouver,0
 6171998,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
+6172009,ru,NA,"Северная Америка",CA,Канада,SK,Саскачеван,,,,,America/Regina,0
 6172669,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
 6172751,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6172917,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
@@ -69448,6 +69480,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6176928,ru,NA,"Северная Америка",CA,Канада,SK,Саскачеван,,,,,America/Regina,0
 6176992,ru,NA,"Северная Америка",CA,Канада,YT,Юкон,,,Уотсон-Лейк,,America/Whitehorse,0
 6177107,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
+6177154,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
 6177178,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6177197,ru,NA,"Северная Америка",CA,Канада,MB,Манитоба,,,,,America/Winnipeg,0
 6177596,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
@@ -69511,6 +69544,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6184480,ru,NA,"Северная Америка",CA,Канада,NL,,,,,,America/St_Johns,0
 6184594,ru,NA,"Северная Америка",CA,Канада,AB,Альберта,,,,,America/Edmonton,0
 6184627,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
+6184824,ru,NA,"Северная Америка",CA,Канада,NT,,,,,,America/Edmonton,0
 6185024,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6185138,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
 6185140,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
@@ -69524,7 +69558,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6185811,ru,NA,"Северная Америка",CA,Канада,YT,Юкон,,,,,America/Whitehorse,0
 6186038,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
 6186201,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Toronto,0
-6199035,ru,AS,Азия,ID,Индонезия,JT,,,,,,Asia/Jakarta,0
 6201365,ru,AS,Азия,IQ,Ирак,BG,Багдад,,,,,Asia/Baghdad,0
 6201369,ru,NA,"Северная Америка",HT,Гаити,OU,"Западный департамент",,,Каррефур,,America/Port-au-Prince,0
 6201370,ru,AS,Азия,LB,Ливан,AK,,,,,,Asia/Beirut,0
@@ -69570,7 +69603,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 6232260,ru,OC,Океания,NZ,"Новая Зеландия",AUK,Окленд,,,,,Pacific/Auckland,0
 6232338,ru,OC,Океания,NZ,"Новая Зеландия",AUK,Окленд,,,,,Pacific/Auckland,0
 6232390,ru,OC,Океания,NZ,"Новая Зеландия",AUK,Окленд,,,,,Pacific/Auckland,0
-6232400,ru,OC,Океания,NZ,"Новая Зеландия",AUK,Окленд,,,,,Pacific/Auckland,0
 6234244,ru,OC,Океания,NZ,"Новая Зеландия",WKO,Уаикато,,,,,Pacific/Auckland,0
 6235636,ru,OC,Океания,NZ,"Новая Зеландия",WKO,Уаикато,,,,,Pacific/Auckland,0
 6235745,ru,OC,Океания,NZ,"Новая Зеландия",WKO,Уаикато,,,,,Pacific/Auckland,0
@@ -71837,6 +71869,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7258318,ru,NA,"Северная Америка",US,США,VA,Вирджиния,,,"Маунт Вернон",511,America/New_York,0
 7258367,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,,501,America/New_York,0
 7258459,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,,504,America/New_York,0
+7258576,ru,NA,"Северная Америка",US,США,NY,Нью-Йорк,,,"Росендейл Виладж",501,America/New_York,0
 7258579,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,Росс,508,America/New_York,0
 7258596,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,Салунга-Лендисвиль,566,America/New_York,0
 7258897,ru,NA,"Северная Америка",US,США,MD,Мэриленд,,,Люсервилл-Тимониум,512,America/New_York,0
@@ -71845,12 +71878,10 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7259028,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,,501,America/New_York,0
 7259061,ru,NA,"Северная Америка",US,США,MD,Мэриленд,,,"Сьютленд-Силвер Хилл",511,America/New_York,0
 7259146,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,,501,America/New_York,0
-7259148,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,Вейн,501,America/New_York,0
 7259155,ru,NA,"Северная Америка",US,США,NJ,Нью-Джерси,,,"Вест Калдвелл",501,America/New_York,0
 7259162,ru,NA,"Северная Америка",US,США,PA,Пенсильвания,,,,504,America/New_York,0
 7259253,ru,NA,"Северная Америка",US,США,SD,"Южная Дакота",,,"Элсуорт Эйр Форс Бейс",764,America/Denver,0
 7259265,ru,NA,"Северная Америка",US,США,MO,Миссури,,,"Форт Леонард Вуд",619,America/Chicago,0
-7259297,ru,NA,"Северная Америка",US,США,MI,Мичиган,,,,505,America/Detroit,0
 7259303,ru,NA,"Северная Америка",US,США,MI,Мичиган,,,,505,America/Detroit,0
 7259396,ru,NA,"Северная Америка",US,США,ND,"Северная Дакота",,,"Минот Эйр Форс Бейс",687,America/Chicago,0
 7259466,ru,NA,"Северная Америка",US,США,MI,Мичиган,,,,505,America/Detroit,0
@@ -71878,6 +71909,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7262449,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,"Ванденберг Спак Форс Бейс",855,America/Los_Angeles,0
 7262586,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,"Ёсемит Вэлли",866,America/Los_Angeles,0
 7262854,ru,NA,"Северная Америка",US,США,AK,Аляска,,,"Еиелсон Эйр Форс Бейс",745,America/Anchorage,0
+7262905,ru,NA,"Северная Америка",US,США,AK,Аляска,,,Лейкс,743,America/Anchorage,0
 7266440,ru,NA,"Северная Америка",MS,Монтсеррат,,,,,Брейдс,,America/Montserrat,0
 7267468,ru,NA,"Северная Америка",US,США,VA,Вирджиния,,,,544,America/New_York,0
 7267472,ru,NA,"Северная Америка",US,США,TX,Техас,,,,625,America/Chicago,0
@@ -72060,6 +72092,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7302804,ru,AF,Африка,ZA,ЮАР,GP,Гаутенг,,,,,Africa/Johannesburg,0
 7302826,ru,AS,Азия,IN,Индия,TS,Телангана,,,"Лал Бахадур Нагар",,Asia/Kolkata,0
 7302833,ru,AS,Азия,IN,Индия,AP,Андхра-Прадеш,,,Гаюуака,,Asia/Kolkata,0
+7302854,ru,AS,Азия,IN,Индия,AS,Ассам,,,,,Asia/Kolkata,0
 7302855,ru,AS,Азия,IN,Индия,AR,Аруначал-Прадеш,,,Нагарлагун,,Asia/Kolkata,0
 7302870,ru,NA,"Северная Америка",CA,Канада,NS,"Новая Шотландия",,,,,America/Halifax,0
 7303020,ru,EU,Европа,DE,ФРГ,ST,Саксония-Анхальт,,,,,Europe/Berlin,1
@@ -72767,7 +72800,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 7873266,ru,EU,Европа,AT,Австрия,4,"Верхняя Австрия",,,,,Europe/Vienna,1
 7873273,ru,EU,Европа,AT,Австрия,4,"Верхняя Австрия",,,,,Europe/Vienna,1
 7873357,ru,EU,Европа,AT,Австрия,6,Штирия,,,,,Europe/Vienna,1
-7873861,ru,OC,Океания,GU,Гуам,,,,,,,Pacific/Guam,0
 7873866,ru,OC,Океания,GU,Гуам,,,,,,,Pacific/Guam,0
 7874116,ru,NA,"Северная Америка",DO,"Доминиканская Республика",32,Санто-Доминго,,,"Санто Доминго Оесте",,America/Santo_Domingo,0
 7874332,ru,EU,Европа,ES,Испания,AN,Андалусия,MA,,,,Europe/Madrid,1
@@ -73011,7 +73043,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8265550,ru,AS,Азия,IL,Израиль,Z,"Северный округ",,,Ади,,Asia/Jerusalem,0
 8274185,ru,AS,Азия,CN,Китай,JS,Цзянсу,,,,,Asia/Shanghai,0
 8280278,ru,EU,Европа,BY,Беларусь,VI,"Витебская Область",,,Старь,,Europe/Minsk,0
-8281537,ru,EU,Европа,UA,Украина,21,"Закарпатская область",,,Поляна,,Europe/Kyiv,0
 8285452,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,Анкастер,,America/Toronto,0
 8285534,ru,EU,Европа,ES,Испания,MD,"Область Мадрид",M,,"Фуэнкарраль — Эль-Пардо",,Europe/Madrid,1
 8299268,ru,EU,Европа,NL,Нидерланды,GR,Гронинген,,,,,Europe/Amsterdam,1
@@ -73560,6 +73591,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8558574,ru,EU,Европа,NO,Норвегия,50,Трёнделаг,,,,,Europe/Oslo,0
 8558590,ru,EU,Европа,NO,Норвегия,02,"фюльке Акерсхус",,,,,Europe/Oslo,0
 8558598,ru,EU,Европа,NO,Норвегия,02,"фюльке Акерсхус",,,,,Europe/Oslo,0
+8562628,ru,AS,Азия,ID,Индонезия,SB,,,,,,Asia/Jakarta,0
 8569281,ru,AS,Азия,JP,Япония,11,Сайтама,,,,,Asia/Tokyo,0
 8569338,ru,AS,Азия,JP,Япония,11,Сайтама,,,,,Asia/Tokyo,0
 8570277,ru,AS,Азия,JP,Япония,11,Сайтама,,,,,Asia/Tokyo,0
@@ -73722,7 +73754,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8607120,ru,AS,Азия,VN,Вьетнам,61,,,,,,Asia/Bangkok,0
 8609151,ru,AS,Азия,VN,Вьетнам,70,Виньфук,,,,,Asia/Bangkok,0
 8609303,ru,NA,"Северная Америка",PM,"Сен-Пьер и Микелон",M,,,,,,America/Miquelon,0
-8612144,ru,SA,"Южная Америка",BR,Бразилия,ES,Эспириту-Санту,,,,,America/Sao_Paulo,0
 8614691,ru,OC,Океания,AU,Австралия,NSW,"Новый Южный Уэльс",,,,,Australia/Sydney,0
 8614838,ru,NA,"Северная Америка",PM,"Сен-Пьер и Микелон",M,,,,,,America/Miquelon,0
 8615474,ru,OC,Океания,AU,Австралия,SA,"Южная Австралия",,,,,Australia/Adelaide,0
@@ -73861,6 +73892,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8858347,ru,NA,"Северная Америка",MX,Мексика,HID,Идальго,,,"Форхадорес де Пачука",,America/Mexico_City,0
 8858530,ru,NA,"Северная Америка",MX,Мексика,AGU,Агуаскальентес,,,"Эль Льяно",,America/Mexico_City,0
 8858639,ru,NA,"Северная Америка",MX,Мексика,ROO,Кинтана-Роо,,,"Игнасио Сарагоса",,America/Cancun,0
+8859214,ru,NA,"Северная Америка",MX,Мексика,JAL,Халиско,,,"Ласаро Карденас",,America/Mexico_City,0
 8859404,ru,NA,"Северная Америка",MX,Мексика,CHP,Чьяпас,,,Пуебла,,America/Mexico_City,0
 8859735,ru,NA,"Северная Америка",MX,Мексика,CHP,Чьяпас,,,"Эль Параисо",,America/Mexico_City,0
 8859799,ru,NA,"Северная Америка",MX,Мексика,MEX,Мехико,,,"Ла Эррадура",,America/Mexico_City,0
@@ -73874,7 +73906,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 8886101,ru,NA,"Северная Америка",MX,Мексика,CMX,Мехико,,,,,America/Mexico_City,0
 8886572,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,,,America/Mexico_City,0
 8887046,ru,NA,"Северная Америка",MX,Мексика,SON,Сонора,,,,,America/Hermosillo,0
-8887396,ru,NA,"Северная Америка",MX,Мексика,MIC,Мичоакан,,,,,America/Mexico_City,0
 8891179,ru,NA,"Северная Америка",MX,Мексика,CHP,Чьяпас,,,,,America/Mexico_City,0
 8902638,ru,NA,"Северная Америка",MX,Мексика,GUA,,,,,,America/Mexico_City,0
 8907424,ru,NA,"Северная Америка",MX,Мексика,NLE,,,,,,America/Monterrey,0
@@ -74312,7 +74343,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 9638751,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
 9639538,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
 9640338,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
-9642340,ru,AS,Азия,SA,"Саудовская Аравия",01,Эр-Рияд,,,,,Asia/Riyadh,0
 9642397,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
 9642404,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
 9642431,ru,AS,Азия,JP,Япония,24,Миэ,,,,,Asia/Tokyo,0
@@ -74338,7 +74368,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 9846658,ru,AS,Азия,ID,Индонезия,LA,,,,,,Asia/Jakarta,0
 9849917,ru,AS,Азия,ID,Индонезия,KR,,,,,,Asia/Jakarta,0
 9855467,ru,AS,Азия,ID,Индонезия,JB,"Западная Ява",,,,,Asia/Jakarta,0
-9858349,ru,NA,"Северная Америка",CA,Канада,ON,Онтарио,,,,,America/Detroit,0
 9862341,ru,SA,"Южная Америка",CO,Колумбия,DC,,,,,,America/Bogota,0
 9862491,ru,SA,"Южная Америка",CO,Колумбия,DC,,,,,,America/Bogota,0
 9863490,ru,SA,"Южная Америка",PE,Перу,LIM,Лима,,,,,America/Lima,0
@@ -74508,7 +74537,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 10194192,ru,NA,"Северная Америка",PA,Панама,8,,,,,,America/Panama,0
 10194205,ru,AS,Азия,JP,Япония,46,Кагосима,,,,,Asia/Tokyo,0
 10194273,ru,NA,"Северная Америка",PA,Панама,5,,,,,,America/Panama,0
-10194677,ru,AS,Азия,IN,Индия,UP,Уттар-Прадеш,,,,,Asia/Kolkata,0
 10209488,ru,AS,Азия,JP,Япония,43,Кумамото,,,,,Asia/Tokyo,0
 10209543,ru,AS,Азия,JP,Япония,43,Кумамото,,,,,Asia/Tokyo,0
 10212526,ru,AS,Азия,JP,Япония,43,Кумамото,,,,,Asia/Tokyo,0
@@ -75619,10 +75647,12 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 11721392,ru,AS,Азия,IN,Индия,OD,,,,,,Asia/Kolkata,0
 11721692,ru,AS,Азия,IN,Индия,OD,,,,,,Asia/Kolkata,0
 11730592,ru,SA,"Южная Америка",PY,Парагвай,11,Сентраль,,,,,America/Asuncion,0
+11745821,ru,OC,Океания,AU,Австралия,WA,"Западная Австралия",,,,,Australia/Perth,0
 11745833,ru,OC,Океания,AU,Австралия,SA,"Южная Австралия",,,,,Australia/Adelaide,0
 11745858,ru,OC,Океания,AU,Австралия,WA,"Западная Австралия",,,,,Australia/Perth,0
 11745904,ru,OC,Океания,AU,Австралия,QLD,Квинсленд,,,,,Australia/Brisbane,0
 11745915,ru,OC,Океания,AU,Австралия,VIC,Виктория,,,,,Australia/Melbourne,0
+11745939,ru,OC,Океания,AU,Австралия,NT,"Северная территория",,,,,Australia/Darwin,0
 11745964,ru,EU,Европа,NO,Норвегия,02,"фюльке Акерсхус",,,,,Europe/Oslo,0
 11745966,ru,EU,Европа,NO,Норвегия,46,Вестланн,,,,,Europe/Oslo,0
 11745967,ru,EU,Европа,NO,Норвегия,02,"фюльке Акерсхус",,,,,Europe/Oslo,0
@@ -75667,6 +75697,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 11746985,ru,EU,Европа,NO,Норвегия,06,,,,,,Europe/Oslo,0
 11746989,ru,EU,Европа,NO,Норвегия,08,Телемарк,,,,,Europe/Oslo,0
 11746990,ru,EU,Европа,NO,Норвегия,07,Вестфолл,,,,,Europe/Oslo,0
+11747106,ru,OC,Океания,AU,Австралия,QLD,Квинсленд,,,,,Australia/Brisbane,0
 11747175,ru,EU,Европа,GR,Греция,B,"Центральная Македония",,,Неаполис,,Europe/Athens,1
 11747270,ru,EU,Европа,NO,Норвегия,02,"фюльке Акерсхус",,,,,Europe/Oslo,0
 11747272,ru,EU,Европа,NO,Норвегия,34,Иннландет,,,,,Europe/Oslo,0
@@ -76355,7 +76386,6 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 12048291,ru,EU,Европа,GB,Британия,ENG,Англия,TWH,,,,Europe/London,0
 12048305,ru,EU,Европа,GB,Британия,ENG,Англия,HCK,,,,Europe/London,0
 12048313,ru,EU,Европа,GB,Британия,ENG,Англия,HCK,,,,Europe/London,0
-12048339,ru,EU,Европа,GB,Британия,ENG,Англия,RDB,,,,Europe/London,0
 12048340,ru,EU,Европа,GB,Британия,ENG,Англия,RDB,,,,Europe/London,0
 12048395,ru,EU,Европа,GB,Британия,ENG,Англия,ISL,,,,Europe/London,0
 12048406,ru,EU,Европа,GB,Британия,ENG,Англия,HRY,,,,Europe/London,0
@@ -76696,6 +76726,7 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 12518990,ru,AS,Азия,IN,Индия,CG,Чхаттисгарх,,,,,Asia/Kolkata,0
 12519082,ru,AS,Азия,IN,Индия,BR,Бихар,,,,,Asia/Kolkata,0
 12519119,ru,AS,Азия,IN,Индия,RJ,Раджастхан,,,,,Asia/Kolkata,0
+12519141,ru,AS,Азия,IN,Индия,BR,Бихар,,,,,Asia/Kolkata,0
 12519533,ru,AS,Азия,IN,Индия,GJ,Гуджарат,,,,,Asia/Kolkata,0
 12522854,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,,825,America/Los_Angeles,0
 12523060,ru,NA,"Северная Америка",US,США,CA,Калифорния,,,,803,America/Los_Angeles,0
@@ -77227,3 +77258,4 @@ geoname_id,locale_code,continent_code,continent_name,country_iso_code,country_na
 13697149,ru,AS,Азия,TR,Турция,76,Ыгдыр,,,,,Europe/Istanbul,0
 13704858,ru,EU,Европа,DE,ФРГ,NI,"Нижняя Саксония",,,,,Europe/Berlin,1
 13711416,ru,AS,Азия,TR,Турция,07,Анталья,,,,,Europe/Istanbul,0
+13712858,ru,NA,"Северная Америка",CA,Канада,QC,,,,,,America/Toronto,0
